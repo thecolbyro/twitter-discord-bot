@@ -1,0 +1,32 @@
+{
+  "watches": [
+    {
+      "twitter_username": "hasanthehun",
+      "source_label": "Hasan",
+      "discord_user_id": 111111111111111100,
+      "topics": [
+        {
+          "keywords": [
+            "estiny"
+            "theomniliberal"
+          ],
+          "label": "Destiny"
+        }
+      ]
+    },
+    {
+      "twitter_username": "TheOmniLiberal",
+      "source_label": "Destiny",
+      "discord_user_id": 222222222222222200,
+      "topics": [
+        {
+          "keywords": [
+            "hasan",
+            "piker"
+          ],
+          "label": "Hasan"
+        }
+      ]
+    }
+  ]
+}
